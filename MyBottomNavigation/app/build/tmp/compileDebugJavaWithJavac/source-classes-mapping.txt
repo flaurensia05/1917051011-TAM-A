@@ -1,0 +1,31 @@
+com/example/mybottomnavigation/databinding/FragmentProfileBinding.java
+ com.example.mybottomnavigation.databinding.FragmentProfileBinding
+com/example/mybottomnavigation/ui/notifications/NotificationsFragment.java
+ com.example.mybottomnavigation.ui.notifications.NotificationsFragment
+ com.example.mybottomnavigation.ui.notifications.NotificationsFragment$1
+com/example/mybottomnavigation/ui/home/HomeViewModel.java
+ com.example.mybottomnavigation.ui.home.HomeViewModel
+com/example/mybottomnavigation/ui/home/HomeFragment.java
+ com.example.mybottomnavigation.ui.home.HomeFragment
+ com.example.mybottomnavigation.ui.home.HomeFragment$1
+com/example/mybottomnavigation/databinding/ActivityMainBinding.java
+ com.example.mybottomnavigation.databinding.ActivityMainBinding
+com/example/mybottomnavigation/ui/dashboard/DashboardViewModel.java
+ com.example.mybottomnavigation.ui.dashboard.DashboardViewModel
+com/example/mybottomnavigation/databinding/FragmentNotificationsBinding.java
+ com.example.mybottomnavigation.databinding.FragmentNotificationsBinding
+com/example/mybottomnavigation/databinding/FragmentHomeBinding.java
+ com.example.mybottomnavigation.databinding.FragmentHomeBinding
+com/example/mybottomnavigation/databinding/FragmentDashboardBinding.java
+ com.example.mybottomnavigation.databinding.FragmentDashboardBinding
+com/example/mybottomnavigation/ProfileFragment.java
+ com.example.mybottomnavigation.ProfileFragment
+com/example/mybottomnavigation/ui/dashboard/DashboardFragment.java
+ com.example.mybottomnavigation.ui.dashboard.DashboardFragment
+ com.example.mybottomnavigation.ui.dashboard.DashboardFragment$1
+com/example/mybottomnavigation/MainActivity.java
+ com.example.mybottomnavigation.MainActivity
+com/example/mybottomnavigation/BuildConfig.java
+ com.example.mybottomnavigation.BuildConfig
+com/example/mybottomnavigation/ui/notifications/NotificationsViewModel.java
+ com.example.mybottomnavigation.ui.notifications.NotificationsViewModel
